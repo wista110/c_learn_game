@@ -56,7 +56,6 @@ markdown
 ![代替テキスト](https://example.com/image.png)
 📌 表
 markdown
-コードをコピーする
 | 見出し1 | 見出し2 |
 |---------|---------|
 | 内容1   | 内容2   |
