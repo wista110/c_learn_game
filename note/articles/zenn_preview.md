@@ -44,13 +44,13 @@ win + .
 :::message alert
 (例)この操作は慎重に行ってください
 :::
-
+```
 💡 ヒントブロック
-markdown
-コードをコピーする
+```markdown
 :::message
-保存するとブラウザが自動更新されます
+(例)保存するとブラウザが自動更新されます
 :::
+```
 
 ### zenn comannd
 ```zenn
@@ -63,4 +63,4 @@ Command:
   zenn list:books     本の一覧を表示
   zenn --version, -v  zenn-cliのバージョンを表示
   zenn --help, -h     ヘルプ
-  ```
+```
